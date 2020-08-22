@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 */target/
 */*.iml
 */current/
 */node_modules/
 */.idea/
+=======
+**/.idea
+**/target
+**/*.iml
+**/node_modules
+>>>>>>> feature/feature-review
